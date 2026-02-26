@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|solutionrelative:305product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|c:\\users\\kremmick\\source\\repos\\csharp programs\\305product\\305product\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|solutionrelative:305product\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|c:\\users\\kremmick\\source\\repos\\csharp programs\\305product\\305product\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|solutionrelative:305product\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|c:\\users\\kremmick\\source\\repos\\csharp programs\\305product\\305product\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|solutionrelative:305product\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "305Product\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Controllers\\ProductController.cs",
               "RelativeToolTip": "305Product\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwB4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowGoAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T21:02:42.965Z",
               "EditorCaption": ""
@@ -53,27 +53,25 @@
               "RelativeDocumentMoniker": "305Product\\Program.cs",
               "ToolTip": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Program.cs",
               "RelativeToolTip": "305Product\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:59:18.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T20:59:18.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\appsettings.json",
               "RelativeDocumentMoniker": "305Product\\appsettings.json",
               "ToolTip": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\appsettings.json",
               "RelativeToolTip": "305Product\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-17T20:58:03.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T20:58:03.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "305Product\\Data\\AppDbContext.cs",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "305Product\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:47:22.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T20:47:22.021Z"
             },
             {
               "$type": "Document",
@@ -92,7 +89,7 @@
               "RelativeDocumentMoniker": "305Product\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Models\\Product.cs",
               "RelativeToolTip": "305Product\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T20:24:56.069Z",
               "EditorCaption": ""

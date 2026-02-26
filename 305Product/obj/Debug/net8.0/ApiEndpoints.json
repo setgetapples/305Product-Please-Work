@@ -27,6 +27,22 @@
   },
   {
     "ContainingType": "_305Product.Controllers.ProductController",
+    "Method": "GetProducts",
+    "RelativePath": "api/Product/GetProducts/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_305Product.Controllers.ProductController",
     "Method": "updateProduct",
     "RelativePath": "api/Product/updateProduct/{id}",
     "HttpMethod": "PUT",
@@ -34,13 +50,13 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "value",
-        "Type": "_305Product.Models.Product",
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": true
       },
       {
-        "Name": "id",
-        "Type": "System.Int32",
+        "Name": "value",
+        "Type": "_305Product.Models.Product",
         "IsRequired": true
       }
     ],
