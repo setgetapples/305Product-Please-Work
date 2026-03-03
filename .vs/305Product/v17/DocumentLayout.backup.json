@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|solutionrelative:305product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|c:\\users\\kremmick\\source\\repos\\csharp programs\\305product\\305product\\305product.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|solutionrelative:305product\\305product.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|c:\\users\\kremmick\\source\\repos\\csharp programs\\305product\\305product\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|solutionrelative:305product\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,24 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "305Product",
+              "DocumentMoniker": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\305Product.csproj",
+              "RelativeDocumentMoniker": "305Product\\305Product.csproj",
+              "ToolTip": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\305Product.csproj",
+              "RelativeToolTip": "305Product\\305Product.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T20:05:36.18Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "305Product\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "305Product\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowGoAAABoAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "305Product\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAuwIsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T21:02:42.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Program.cs",
               "RelativeDocumentMoniker": "305Product\\Program.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\appsettings.json",
               "RelativeDocumentMoniker": "305Product\\appsettings.json",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "305Product\\Data\\AppDbContext.cs",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Models\\Product.cs",
               "RelativeDocumentMoniker": "305Product\\Models\\Product.cs",
@@ -91,8 +108,7 @@
               "RelativeToolTip": "305Product\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T20:24:56.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T20:24:56.069Z"
             }
           ]
         }

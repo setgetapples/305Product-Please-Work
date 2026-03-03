@@ -113,5 +113,43 @@ namespace _305Product.Controllers
                 return BadRequest();
             }
         }
+
+        [HttpDelete("[action]/{id}")]
+        public async Task<IActionResult> deleteProduct(int id)
+        {
+            if (id == null)
+            {
+                Console.WriteLine($"Error: could not find product with id: {id} \n Check your database size.");
+            }
+            try
+            {
+                var product = await _db.Products.FindAsync(id);
+                _db.Products.Remove(product);
+                await _db.SaveChangesAsync();
+
+                return Ok($"Product with id: {id} was removed from the database.");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine($"Encountered exception for deleting product: \n {e}");
+                return BadRequest();
+            }
+        }
+
+        //"real world" feature/example: find products cheaper than a given price
+        [HttpGet("[action]/{price}")]
+        public async Task<IActionResult> cheaperThanPrice(int price)
+        {
+            try
+            {
+                var products = await _db.Products.Where(p => p.Price < price).ToListAsync();
+                return Ok(products);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine($"Encountered exception for searching for products cheaper than given price: \n {e}");
+                return BadRequest();
+            }
+        }
     }
 }
