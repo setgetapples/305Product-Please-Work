@@ -49,6 +49,22 @@
   },
   {
     "ContainingType": "_305Product.Controllers.ProductController",
+    "Method": "getProductByCategory",
+    "RelativePath": "api/Product/getProductByCategory/{category_name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category_name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_305Product.Controllers.ProductController",
     "Method": "GetProducts",
     "RelativePath": "api/Product/GetProducts",
     "HttpMethod": "GET",
