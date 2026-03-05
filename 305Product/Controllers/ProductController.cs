@@ -151,5 +151,35 @@ namespace _305Product.Controllers
                 return BadRequest();
             }
         }
+
+        [HttpGet("[action]/{category_name}")]
+        public async Task<IActionResult> getProductByCategory(String category_name)
+        {
+            try
+            {
+                var category_obj = await _db.Categories.FirstOrDefaultAsync(c => c.CategoryName.Contains(category_name));
+                var products = await _db.Products.Where(p => p.CategoryId == category_obj.CategoryId).ToListAsync();
+
+                return Ok(products);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine($"Encountered exception for getting product by Category name: \n {e} \n --------\nTry typing with correct syntax (e.g. Electronics)");
+                return BadRequest();
+            }
+        }
+        // additional "bare minimum" functions
+        [HttpGet("greeting")]
+        public String GetGreeting()
+        {
+            return "Hello World";
+        }
+        [HttpGet("async")]
+        public async Task<IActionResult> GetAsync()
+        {
+            await Task.Delay(1000);
+            return Ok("Async controller response");
+        }
+
     }
 }

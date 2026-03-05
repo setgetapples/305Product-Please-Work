@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|solutionrelative:305product\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|c:\\users\\kremmick\\source\\repos\\csharp programs\\305product\\305product\\305product.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|solutionrelative:305product\\305product.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|c:\\users\\kremmick\\source\\repos\\csharp programs\\305product\\305product\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|solutionrelative:305product\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|c:\\users\\kremmick\\source\\repos\\csharp programs\\305product\\305product\\305product.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|solutionrelative:305product\\305product.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|c:\\users\\kremmick\\source\\repos\\csharp programs\\305product\\305product\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|c:\\users\\kremmick\\source\\repos\\csharp programs\\305product\\305product\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|solutionrelative:305product\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|c:\\users\\kremmick\\source\\repos\\csharp programs\\305product\\305product\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61C599B7-5404-4A8D-A644-454CA86080B7}|305Product\\305Product.csproj|solutionrelative:305product\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +42,8 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "305Product",
+              "DocumentIndex": 2,
+              "Title": "305Product.csproj",
               "DocumentMoniker": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\305Product.csproj",
               "RelativeDocumentMoniker": "305Product\\305Product.csproj",
               "ToolTip": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\305Product.csproj",
@@ -57,7 +61,7 @@
               "RelativeDocumentMoniker": "305Product\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Controllers\\ProductController.cs",
               "RelativeToolTip": "305Product\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAmwIsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAuwKoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T21:02:42.965Z",
               "EditorCaption": ""
@@ -70,7 +74,7 @@
               "RelativeDocumentMoniker": "305Product\\Program.cs",
               "ToolTip": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Program.cs",
               "RelativeToolTip": "305Product\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T20:59:18.356Z"
             },
@@ -94,19 +98,31 @@
               "RelativeDocumentMoniker": "305Product\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Data\\AppDbContext.cs",
               "RelativeToolTip": "305Product\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T20:47:22.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "305Product\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Models\\Category.cs",
+              "RelativeToolTip": "305Product\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:12:18.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Models\\Product.cs",
               "RelativeDocumentMoniker": "305Product\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\kremmick\\source\\repos\\CSharp Programs\\305Product\\305Product\\Models\\Product.cs",
               "RelativeToolTip": "305Product\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-17T20:24:56.069Z",
               "EditorCaption": ""
